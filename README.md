@@ -1,4 +1,4 @@
-<h1 align="center">Aleksi Toivonen</h3>
+<h2 align="center">Aleksi Toivonen</h2>
 
 <p align="center">
   Some projects.
