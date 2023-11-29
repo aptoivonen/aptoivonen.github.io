@@ -1,6 +1,8 @@
 import './App.css';
+import useSmoothScroll from './hooks/useSmoothScroll';
 
 export function App() {
+  useSmoothScroll();
   return (
     <>
       <header className="primary-header flex">
