@@ -1,7 +1,7 @@
 :root {
-  --dark-blue: #1e384c;
-  --light-grey: #e4e4e4;
-  --orange: #ffa500;
+  --dark-blue: hsl(206, 43%, 21%);
+  --light-grey: hsl(0, 0%, 89%);
+  --orange: hsl(39, 100%, 50%);
   --primary-color: var(--dark-blue);
   --secondary-color: var(--light-grey);
   --tertiary-color: var(--orange);
