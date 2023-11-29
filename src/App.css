@@ -1,0 +1,15 @@
+:root {
+  --dark-blue: #1e384c;
+  --light-grey: #e4e4e4;
+  --orange: #ffa500;
+  --primary-color: var(--dark-blue);
+  --secondary-color: var(--light-grey);
+  --tertiary-color: var(--orange);
+}
+
+html {
+  font-family: 'Roboto Mono';
+  font-size: 1rem;
+  color: var(--secondary-color);
+  background-color: var(--primary-color);
+}
