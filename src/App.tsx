@@ -63,7 +63,12 @@ export function App() {
           </ul>
         </nav>
       </header>
-      <main>Main</main>
+      <main>
+        <section>Hero</section>
+        <section>About</section>
+        <section>Projects</section>
+        <section>Contact</section>
+      </main>
       <footer>Footer</footer>
     </>
   );
